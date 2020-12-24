@@ -46,7 +46,7 @@ params:
       - label: Tik Tok
         url: lorem-ipsum
         style: icon
-        icon_class: fa-tiktok
+        icon_class: <i class="fab fa-tiktok"></i>
         new_window: false
         type: action
 taxonomies:
