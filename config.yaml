@@ -40,7 +40,7 @@ params:
       - label: Twitch
         url: lorem-ipsum
         style: icon
-        icon_class: fa-
+        icon_class: fa-twitch
         new_window: false
         type: action
 taxonomies:
