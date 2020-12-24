@@ -13,7 +13,7 @@ sections:
         url: /contact
         style: button
       - label: lorem-ipsum
-        url: ''
+        url: /blog
         style: link
         icon_class: lorem-ipsum
         new_window: false
