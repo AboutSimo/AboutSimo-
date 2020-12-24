@@ -8,7 +8,7 @@ sections:
     title: Recent Work
     subtitle: An optional subtitle of the section
     projects_number: 6
-    view_all_label: '1'
+    view_all_label: ''
     view_all_url: portfolio
 layout: advanced
 ---
