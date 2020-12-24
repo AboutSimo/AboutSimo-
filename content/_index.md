@@ -20,5 +20,11 @@ sections:
     projects_number: 6
     view_all_label: ''
     view_all_url: portfolio
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 layout: advanced
 ---
