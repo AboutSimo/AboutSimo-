@@ -34,7 +34,7 @@ params:
       - label: Youtube
         url: lorem-ipsum
         style: link
-        icon_class: fa-
+        icon_class: fa-Youtube
         new_window: false
         type: action
 taxonomies:
