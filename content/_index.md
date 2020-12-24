@@ -20,7 +20,7 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: latest-posts
+  - section_id: ''
     type: section_posts
     title: Latest from the Blog
     subtitle: An optional subtitle of the section
