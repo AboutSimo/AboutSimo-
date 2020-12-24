@@ -31,11 +31,6 @@ params:
         style: icon
         icon_class: fa-instagram
         new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon_class: fa-linkedin
-        new_window: true
 taxonomies:
   stub: stub
 disableKinds:
