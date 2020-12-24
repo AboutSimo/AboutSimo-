@@ -33,7 +33,7 @@ params:
         new_window: true
       - label: Youtube
         url: lorem-ipsum
-        style: link
+        style: icon
         icon_class: fa-Youtube
         new_window: false
         type: action
