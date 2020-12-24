@@ -43,12 +43,6 @@ params:
         icon_class: fa-twitch
         new_window: false
         type: action
-      - label: Tik Tok
-        url: lorem-ipsum
-        style: icon
-        icon_class: fa-tiktok
-        new_window: false
-        type: action
 taxonomies:
   stub: stub
 disableKinds:
