@@ -12,7 +12,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-      - label: View
+      - label: View-All
         url: /blog
         style: link
         icon_class: lorem-ipsum
