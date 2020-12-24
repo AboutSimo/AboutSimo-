@@ -11,7 +11,7 @@ sections:
     view_all_label: ''
     view_all_url: portfolio
   - title: ''
-    section_id: lorem-ipsum
+    section_id: ''
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
