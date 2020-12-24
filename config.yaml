@@ -18,7 +18,7 @@ params:
         url: /about/
         style: link
   footer:
-    content: ''
+    content: Ciao!
     has_social: true
     social_links:
       - label: Instagram
