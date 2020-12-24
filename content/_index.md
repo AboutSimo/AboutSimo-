@@ -10,7 +10,7 @@ sections:
     projects_number: 6
     view_all_label: ''
     view_all_url: portfolio
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
