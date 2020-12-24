@@ -43,7 +43,7 @@ params:
         icon_class: fa-twitch
         new_window: false
         type: action
-      - label: lorem-ipsum
+      - label: Tik Tok
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
