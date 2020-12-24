@@ -20,12 +20,5 @@ sections:
     projects_number: 6
     view_all_label: ''
     view_all_url: portfolio
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
 layout: advanced
 ---
